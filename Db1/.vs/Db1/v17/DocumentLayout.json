@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\llsss\\Desktop\\Curso C# Nivel 2\\BaseDatosPractica\\Db1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{898F4F38-5F91-404B-A3BA-94585F458B2E}|Primera lectura Db\\Primera lectura Db.csproj|C:\\Users\\llsss\\Desktop\\Curso C# Nivel 2\\BaseDatosPractica\\Db1\\primera lectura db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{898F4F38-5F91-404B-A3BA-94585F458B2E}|Primera lectura Db\\Primera lectura Db.csproj|solutionrelative:primera lectura db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898F4F38-5F91-404B-A3BA-94585F458B2E}|Primera lectura Db\\Primera lectura Db.csproj|c:\\users\\llsss\\desktop\\curso c# nivel 2\\basedatospractica\\db1\\primera lectura db\\elemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898F4F38-5F91-404B-A3BA-94585F458B2E}|Primera lectura Db\\Primera lectura Db.csproj|solutionrelative:primera lectura db\\elemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898F4F38-5F91-404B-A3BA-94585F458B2E}|Primera lectura Db\\Primera lectura Db.csproj|C:\\Users\\llsss\\Desktop\\Curso C# Nivel 2\\BaseDatosPractica\\Db1\\primera lectura db\\pokemonnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898F4F38-5F91-404B-A3BA-94585F458B2E}|Primera lectura Db\\Primera lectura Db.csproj|solutionrelative:primera lectura db\\pokemonnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898F4F38-5F91-404B-A3BA-94585F458B2E}|Primera lectura Db\\Primera lectura Db.csproj|C:\\Users\\llsss\\Desktop\\Curso C# Nivel 2\\BaseDatosPractica\\Db1\\primera lectura db\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898F4F38-5F91-404B-A3BA-94585F458B2E}|Primera lectura Db\\Primera lectura Db.csproj|solutionrelative:primera lectura db\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898F4F38-5F91-404B-A3BA-94585F458B2E}|Primera lectura Db\\Primera lectura Db.csproj|c:\\users\\llsss\\desktop\\curso c# nivel 2\\basedatospractica\\db1\\primera lectura db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898F4F38-5F91-404B-A3BA-94585F458B2E}|Primera lectura Db\\Primera lectura Db.csproj|solutionrelative:primera lectura db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Elemento.cs",
+              "DocumentMoniker": "C:\\Users\\llsss\\Desktop\\Curso C# Nivel 2\\BaseDatosPractica\\Db1\\Primera lectura Db\\Elemento.cs",
+              "RelativeDocumentMoniker": "Primera lectura Db\\Elemento.cs",
+              "ToolTip": "C:\\Users\\llsss\\Desktop\\Curso C# Nivel 2\\BaseDatosPractica\\Db1\\Primera lectura Db\\Elemento.cs",
+              "RelativeToolTip": "Primera lectura Db\\Elemento.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T00:00:10.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\llsss\\Desktop\\Curso C# Nivel 2\\BaseDatosPractica\\Db1\\Primera lectura Db\\Pokemon.cs",
+              "RelativeDocumentMoniker": "Primera lectura Db\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\llsss\\Desktop\\Curso C# Nivel 2\\BaseDatosPractica\\Db1\\Primera lectura Db\\Pokemon.cs",
+              "RelativeToolTip": "Primera lectura Db\\Pokemon.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T01:29:11.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PokemonNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\llsss\\Desktop\\Curso C# Nivel 2\\BaseDatosPractica\\Db1\\Primera lectura Db\\PokemonNegocio.cs",
+              "RelativeDocumentMoniker": "Primera lectura Db\\PokemonNegocio.cs",
+              "ToolTip": "C:\\Users\\llsss\\Desktop\\Curso C# Nivel 2\\BaseDatosPractica\\Db1\\Primera lectura Db\\PokemonNegocio.cs",
+              "RelativeToolTip": "Primera lectura Db\\PokemonNegocio.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAuwCkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T02:28:53.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\llsss\\Desktop\\Curso C# Nivel 2\\BaseDatosPractica\\Db1\\Primera lectura Db\\Form1.cs",
+              "RelativeDocumentMoniker": "Primera lectura Db\\Form1.cs",
+              "ToolTip": "C:\\Users\\llsss\\Desktop\\Curso C# Nivel 2\\BaseDatosPractica\\Db1\\Primera lectura Db\\Form1.cs",
+              "RelativeToolTip": "Primera lectura Db\\Form1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T02:07:16.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\llsss\\Desktop\\Curso C# Nivel 2\\BaseDatosPractica\\Db1\\Primera lectura Db\\Form1.cs",
+              "RelativeDocumentMoniker": "Primera lectura Db\\Form1.cs",
+              "ToolTip": "C:\\Users\\llsss\\Desktop\\Curso C# Nivel 2\\BaseDatosPractica\\Db1\\Primera lectura Db\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Primera lectura Db\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:51:50.258Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

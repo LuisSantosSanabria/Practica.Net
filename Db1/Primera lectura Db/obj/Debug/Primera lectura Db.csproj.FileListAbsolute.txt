@@ -1,0 +1,10 @@
+C:\Users\llsss\Desktop\Curso C# Nivel 2\BaseDatosPractica\Db1\Primera lectura Db\obj\Debug\Primera lectura Db.csproj.AssemblyReference.cache
+C:\Users\llsss\Desktop\Curso C# Nivel 2\BaseDatosPractica\Db1\Primera lectura Db\obj\Debug\Primera_lectura_Db.frmPokemon.resources
+C:\Users\llsss\Desktop\Curso C# Nivel 2\BaseDatosPractica\Db1\Primera lectura Db\obj\Debug\Primera_lectura_Db.Properties.Resources.resources
+C:\Users\llsss\Desktop\Curso C# Nivel 2\BaseDatosPractica\Db1\Primera lectura Db\obj\Debug\Primera lectura Db.csproj.GenerateResource.cache
+C:\Users\llsss\Desktop\Curso C# Nivel 2\BaseDatosPractica\Db1\Primera lectura Db\obj\Debug\Primera lectura Db.csproj.CoreCompileInputs.cache
+C:\Users\llsss\Desktop\Curso C# Nivel 2\BaseDatosPractica\Db1\Primera lectura Db\bin\Debug\Primera lectura Db.exe.config
+C:\Users\llsss\Desktop\Curso C# Nivel 2\BaseDatosPractica\Db1\Primera lectura Db\bin\Debug\Primera lectura Db.exe
+C:\Users\llsss\Desktop\Curso C# Nivel 2\BaseDatosPractica\Db1\Primera lectura Db\bin\Debug\Primera lectura Db.pdb
+C:\Users\llsss\Desktop\Curso C# Nivel 2\BaseDatosPractica\Db1\Primera lectura Db\obj\Debug\Primera lectura Db.exe
+C:\Users\llsss\Desktop\Curso C# Nivel 2\BaseDatosPractica\Db1\Primera lectura Db\obj\Debug\Primera lectura Db.pdb
